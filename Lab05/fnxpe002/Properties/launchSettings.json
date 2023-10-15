@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "fnxpe002": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7190",
+      "launchBrowser": false
+    }
+  }
+}
